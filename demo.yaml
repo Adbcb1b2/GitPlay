@@ -1,0 +1,19 @@
+singlevalue: Hello
+myname: Kim Richards
+arrayofnames: 
+  - Rap
+  - Kim Richards
+  - Michelle
+  - Ola
+dictionaryofpeople:
+  Rap:
+    name: Rap
+    hobby: 
+      - Golf
+      - Jogging
+    drink: Burboun
+  Steve:
+    name: Steve
+    hobby:
+      - Gold
+    drink: monster
